@@ -46,7 +46,7 @@
 
   "hexcasting.action.slate_work:get_trades": "商人之纯化",
   "hexcasting.action.slate_work:exchange_mind": "交换意识",
-  "hexcasting.action.slate_work:induce_restock": "引发补货",
+  "hexcasting.action.slate_work:induce_restock": "触发补货",
 
   "hexcasting.action.slate_work:wave_position": "波位之精思",
   "hexcasting.action.slate_work:wave_normal": "波向之精思",
